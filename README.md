@@ -1,2 +1,3 @@
 # FFmpegSalt
-FFmpeg
+
+[FFmpeg](http://ffmpeg.org/)
